@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\bkv\Desktop\OOP\Simulator\Simulator\Main.cpp(51,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bkv\Desktop\OOP\Simulator\Simulator\Main.cpp(72,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bkv\Desktop\OOP\Simulator\Simulator\Main.cpp(93,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bkv\Desktop\OOP\Simulator\Simulator\Main.cpp(109,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bkv\Desktop\OOP\Simulator\Simulator\Main.cpp(144,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\bkv\Desktop\OOP\Simulator\Simulator\Main.cpp(154,42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\bkv\Desktop\OOP\Simulator\Simulator\Main.cpp(241,21): warning C4018: '<': signed/unsigned mismatch
+  Simulator.vcxproj -> C:\Users\bkv\Desktop\OOP\Simulator\Debug\Simulator.exe
