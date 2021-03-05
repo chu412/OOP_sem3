@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\DAL">
+      <UniqueIdentifier>{17ad063a-446c-49c3-b2f8-21a4fe7ec9e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DAL\EmployeeManager">
+      <UniqueIdentifier>{f962de5d-e09a-4036-82b0-dbfed3faf346}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DAL\Models">
+      <UniqueIdentifier>{a668bc6a-d5d9-4598-8809-51f77b23d14b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DAL\TaskManager">
+      <UniqueIdentifier>{ac533fc8-bb66-4436-ae29-c11e102ddcba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DAL\ReportManager">
+      <UniqueIdentifier>{72b33d0b-fd5e-4ecc-8109-ce424811ded7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DAL\Models\Employee">
+      <UniqueIdentifier>{5b076a16-f702-4957-acc3-d3d7f6011281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DAL\Models\Task">
+      <UniqueIdentifier>{2aea6bf7-05b7-457e-8360-87328e704259}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DAL\Models\Report">
+      <UniqueIdentifier>{2e9160c9-0166-4d3b-8e3d-4823a779c05e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\BLL">
+      <UniqueIdentifier>{58e829df-be8b-4d68-a2ce-8a0129b73723}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI">
+      <UniqueIdentifier>{14abbba3-e88b-449c-b4cf-daf65d64802a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lab6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BLL\Menu.cpp">
+      <Filter>Source Files\BLL</Filter>
+    </ClCompile>
+    <ClCompile Include="DAL\ReportManager\ReportManager.cpp">
+      <Filter>Source Files\DAL\ReportManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DAL\TaskManager\TaskManager.cpp">
+      <Filter>Source Files\DAL\TaskManager</Filter>
+    </ClCompile>
+    <ClCompile Include="DAL\Models\Task\Task.cpp">
+      <Filter>Source Files\DAL\Models\Task</Filter>
+    </ClCompile>
+    <ClCompile Include="DAL\Models\Report\Report.cpp">
+      <Filter>Source Files\DAL\Models\Report</Filter>
+    </ClCompile>
+    <ClCompile Include="DAL\Models\Employee\Employee.cpp">
+      <Filter>Source Files\DAL\Models\Employee</Filter>
+    </ClCompile>
+    <ClCompile Include="DAL\EmployeeManager\EmployeeManager.cpp">
+      <Filter>Source Files\DAL\EmployeeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Interface.cpp">
+      <Filter>Source Files\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BLL\Menu.h">
+      <Filter>Source Files\BLL</Filter>
+    </ClInclude>
+    <ClInclude Include="DAL\ReportManager\ReportManager.h">
+      <Filter>Source Files\DAL\ReportManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DAL\TaskManager\TaskManager.h">
+      <Filter>Source Files\DAL\TaskManager</Filter>
+    </ClInclude>
+    <ClInclude Include="DAL\Models\Task\Task.h">
+      <Filter>Source Files\DAL\Models\Task</Filter>
+    </ClInclude>
+    <ClInclude Include="DAL\Models\Report\Report.h">
+      <Filter>Source Files\DAL\Models\Report</Filter>
+    </ClInclude>
+    <ClInclude Include="DAL\Models\Employee\Employee.h">
+      <Filter>Source Files\DAL\Models\Employee</Filter>
+    </ClInclude>
+    <ClInclude Include="DAL\EmployeeManager\EmployeeManager.h">
+      <Filter>Source Files\DAL\EmployeeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Interface.h">
+      <Filter>Source Files\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
